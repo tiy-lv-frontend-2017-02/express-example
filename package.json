@@ -1,0 +1,11 @@
+{
+  "name": "express-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:tiy-lv-frontend-2017-02/express-example.git",
+    "type": "git"
+  },
+  "author": "Michael Sweeney <jfmike@gmail.com> (https://github.com/overthemike)",
+  "license": "MIT"
+}
